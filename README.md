@@ -1,19 +1,13 @@
 ## Hi there 👋
 
-<!--
-**Bashimane-Mamabolo/Bashimane-Mamabolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Bashimane-Mamabolo**, an aspiring **Java Fullstack Developer**. I ✨ like ✨ problem solving, playing chess, video games and football. 
+I ✨ like ✨ to explore new places with different traditions and cultures.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Task Management web app.
+- 🌱 I’m currently learning react and springboot.
+- 👯 I’m looking to collaborate on new business ideas.
+- 💬 Ask me about tech gadgets 💻 and solutions 👨‍💻.
+- 📫 How to reach me: 📱 [!email](mamabolobashimane@gmail.com).
 
 ## 📈 Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Bashimane-Mamabolo)](https://github.com/Bashimane-Mamabolo)
