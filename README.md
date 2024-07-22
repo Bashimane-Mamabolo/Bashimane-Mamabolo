@@ -17,10 +17,12 @@ I ✨ like ✨ to explore new places with different traditions and cultures.
 </a>
 
 
+## 💼 Technical skills:
 
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
+## 📈 Github Stats:
 
-## 📈 Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Bashimane-Mamabolo)](https://github.com/Bashimane-Mamabolo)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bashimane-Mamabolo&layout=compact)](https://github.com/Bashimane-Mamabolo)
