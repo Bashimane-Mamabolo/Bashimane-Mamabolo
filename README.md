@@ -7,14 +7,12 @@ I ✨ like ✨ to explore new places with different traditions and cultures.
 - 🌱 I’m currently learning react and springboot.
 - 👯 I’m looking to collaborate on new business ideas.
 - 💬 Ask me about tech gadgets 💻 and solutions 👨‍💻.
-- 📫 How to reach me: 📱 mamabolobashimane@gmail.com.
-
+- 📫 How to reach me: 📱 [mamabolobashimane@gmail.com](mailto:mamabolobashimane@gmail.com).
 
 ## 🤝 Connect with me:
-
 <a href="https://www.linkedin.com/in/bashimane-mamabolo/">
   <img align="left" src="https://raw.githubusercontent.com/Bashimane-Mamabolo/Bashimane-Mamabolo/main/linkedIn_Icon.png" alt="Bashimane Mamabolo | LinkedIn" width="35px"/>
-</a>
+</a>.
 
 
 ## 💼 Technical skills:
