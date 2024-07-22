@@ -10,6 +10,11 @@ I ✨ like ✨ to explore new places with different traditions and cultures.
 - 📫 How to reach me: 📱 mamabolobashimane@gmail.com.
 
 
+## 🤝 Connect with me:
+
+
+
+
 ## 📈 Github Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Bashimane-Mamabolo)](https://github.com/Bashimane-Mamabolo)
 
