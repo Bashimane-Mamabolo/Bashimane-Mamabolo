@@ -12,9 +12,9 @@ I ✨ like ✨ to explore new places with different traditions and cultures.
 
 ## 🤝 Connect with me:
 
-<a href=”https://www.linkedin.com/in/bashimane-mamabolo/"><img align=”left” src=”https://github.com/Bashimane-Mamabolo/Bashimane-Mamabolo/blob/main/linkedIn_Icon.png” alt=”Bashimane Mamabolo| LinkedIn” width=”35px”/></a>
+<a href=”https://www.linkedin.com/in/bashimane-mamabolo/"><img align=”left” src=”https://github.com/Bashimane-Mamabolo/Bashimane-Mamabolo/main/linkedIn_Icon.png” alt=”Bashimane Mamabolo| LinkedIn” width=”35px”/></a>
 
-<a href=”https://twitter.com/deepajarout"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
+
 
 
 
