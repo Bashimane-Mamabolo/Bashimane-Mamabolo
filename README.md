@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am **Bashimane-Mamabolo**, an aspiring **Java Fullstack Developer**. I ✨ like ✨ problem solving, playing chess, video games, and football. 
-I ✨ like ✨ to explore new places with different traditions and cultures.
+I am **Bashimane-Mamabolo**, a passionate and adaptable **Full Stack Developer** with a love for problem-solving, chess, video games, and football. 
+ I enjoy exploring new places, traditions, and cultures, always seeking fresh perspectives and inspiration.
 
-- 🔭 I’m currently working on a Task Management web app.
-- 🌱 I’m currently learning React and Spring Boot.
+- 🔭 I’m currently working on a full-stack Expense-Tracker management app.
+- 🌱 I’m currently learning NextJs and Design patterns.
 - 👯 I’m looking to collaborate on new business ideas.
 - 💬 Ask me about tech gadgets 💻 and solutions 👨‍💻.
 - 📫 How to reach me: 📱 [mamabolobashimane@gmail.com](mailto:mamabolobashimane@gmail.com).
