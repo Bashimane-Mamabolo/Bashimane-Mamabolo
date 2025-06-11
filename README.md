@@ -68,6 +68,9 @@
 
 ## 📈 Github Stats:
 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Bashimane-Mamabolo)](https://github.com/Bashimane-Mamabolo)
+## 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bashimane-Mamabolo&layout=compact)](https://github.com/Bashimane-Mamabolo)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bashimane-Mamabolo&show_icons=true&theme=react&hide=contribs&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bashimane-Mamabolo&theme=react" />
+</div>
