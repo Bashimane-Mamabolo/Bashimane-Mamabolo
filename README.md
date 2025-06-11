@@ -19,13 +19,11 @@
 <a href="https://www.linkedin.com/in/bashimane-mamabolo/">
   <img align="left" src="https://raw.githubusercontent.com/Bashimane-Mamabolo/Bashimane-Mamabolo/main/linkedIn_Icon.png" alt="Bashimane Mamabolo | LinkedIn" width="35px"/>
 </a>  
-
 <br clear="left"/>
 
 ---
 
 ## 💼 My Stack:
-
 
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![image](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -39,7 +37,6 @@
 ![](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
 
 ---
 
