@@ -1,13 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm **Bashimame** 👨‍💻
 
-I am **Bashimane-Mamabolo**, a passionate and adaptable **Full Stack Developer** with a love for problem-solving, chess, video games, and football. 
- I enjoy exploring new places, traditions, and cultures, always seeking fresh perspectives and inspiration.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Backend+Dev+%7C+Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on a full-stack Expense-Tracker management app.
-- 🌱 I’m currently learning NextJs and Design patterns.
-- 👯 I’m looking to collaborate on new business ideas.
-- 💬 Ask me about tech gadgets 💻 and solutions 👨‍💻.
-- 📫 How to reach me: 📱 [mamabolobashimane@gmail.com](mailto:mamabolobashimane@gmail.com).
+---
+
+## 🚀 About Me 
+
+- 💻 Passionate about building systems with **C#**, **.NET**
+- 🧠 Constantly learning: sharing & applying what I learn
+- 🛠️ Focused on good **practices**
 
 ---
 
