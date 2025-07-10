@@ -10,7 +10,7 @@
 
 - 💻 Passionate about building systems with **C#**, **.NET**
 - 🧠 Constantly learning: sharing & applying what I learn
-- 🛠️ Focused on good **practices**
+- 🛠️ Focused on good **practices** & delivery
 
 ---
 
