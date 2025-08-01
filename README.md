@@ -8,7 +8,7 @@
 
 ## 🚀 About Me:
 
-- 💻 Passionate about building systems with **C#**, **.NET**, **Javascript**
+- 💻 Passionate about building systems with **C#**, **Java**, **Javascript**
 - 🧠 Constantly learning: sharing & applying what I learn
 - 🛠️ Focused on good **practices** & delivery
 
