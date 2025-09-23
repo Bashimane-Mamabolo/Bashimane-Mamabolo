@@ -1,4 +1,4 @@
-## 👋 Hey, I'm **Bashimame** 👨‍💻
+## 👋 Hey, I'm **Bashimane** 👨‍💻
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Backend+Dev+%7C+Tech+Enthusiast" alt="Typing SVG" />
